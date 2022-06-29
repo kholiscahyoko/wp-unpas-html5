@@ -1,5 +1,6 @@
+<!-- start of markdown -->
 # Belajar HTML5 Bareng Web Programming Unpas
-This Repo was created along with
+This Repo was created as the result of code along with Web Programming Unpas on their [Youtube Channel](https://www.youtube.com/c/WebProgrammingUNPAS)
 
 ## Youtube Playlist [link](https://www.youtube.com/playlist?list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7)
 1. [Apa itu HTML5?](https://www.youtube.com/watch?v=Q2VqCG13ejA&list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7&index=1)
@@ -15,3 +16,13 @@ Special thanks to [Sandhika Galih](https://www.linkedin.com/in/sandhikagalih) an
 ### Donation :clap:
 - [Saweria](https://saweria.co/sandhikagalih)
 - [Karya Karsa](https://karyakarsa.com/sandhikagalih)
+
+### Subscribe Web Programming Unpas [link](https://www.youtube.com/c/WebProgrammingUNPAS)
+
+### Follow Shandika Galih
+- [Instagram](https://www.instagram.com/sandhikagalih)
+- [Tiktok](https://tiktok.com/@sandhika.galih)
+- [Twitter](https://twitter.com/sandhikagalih)
+- [Github](https://github.com/sandhikagalih)
+
+<!-- end of markdown -->
